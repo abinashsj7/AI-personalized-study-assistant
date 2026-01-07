@@ -1,0 +1,19 @@
+<h2>Sample Study Planner</h2>
+
+<div class="box">
+  <p><b>Input</b></p>
+  <ul>
+    <li>Subject: Mathematics</li>
+    <li>Topic: Integration</li>
+    <li>Difficulty: Medium</li>
+    <li>Available Time: 2 hours</li>
+  </ul>
+
+  <p><b>Generated Study Plan</b></p>
+  <ul>
+    <li>Revise core integration concepts (30 min)</li>
+    <li>Practice standard problems (45 min)</li>
+    <li>Attempt mixed-difficulty questions (30 min)</li>
+    <li>Quick revision and self-test (15 min)</li>
+  </ul>
+</div>
