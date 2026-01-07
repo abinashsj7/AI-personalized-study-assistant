@@ -1,20 +1,28 @@
+# AI-Powered Personalized Study Assistant
+
 ## Problem Statement
-Students lack personalized study guidance tailored to their individual learning needs.
+Students often rely on generic study methods that fail to address individual learning needs, available time, and topic difficulty. This leads to inefficient learning and increased academic stress.
 
 ## SDG Alignment
-This project supports SDG 4 – Quality Education by promoting inclusive and personalized learning.
+This project aligns with **SDG 4 – Quality Education** by promoting personalized and inclusive learning support through AI-based recommendations.
 
 ## AI Solution Description
-The system uses user input to generate customized study recommendations.
+The proposed solution is an AI-powered study assistant that collects user inputs such as subject, topic, difficulty level, and available study time, and generates a customized study plan. The system follows an input–process–output workflow to provide meaningful learning guidance.
 
 ## Target Users
-College and university students.
+- College and university students
+- Self-learners preparing for exams
 
-## Tools and Technologies
-Python, GitHub.
+## Tools and Technologies Used
+- Python for application logic
+- GitHub for version control and deployment
 
-## Expected Impact
-Improved study efficiency, reduced stress, and better learning outcomes.
+## Expected Outcomes and Impact
+- Improved study efficiency
+- Better time management for learners
+- Reduced academic stress through structured guidance
 
 ## Ethical and Responsible AI Use
-No personal data storage, no academic judgment, advisory-only system.
+- No personal or sensitive data is collected or stored
+- The system does not evaluate or grade students
+- Recommendations are advisory and non-deterministic
